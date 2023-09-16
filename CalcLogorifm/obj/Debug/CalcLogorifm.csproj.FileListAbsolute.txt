@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\CalcLogorifm\CalcLogorifm\bin\Debug\CalcLogorifm.exe.config
+C:\Users\HP\source\repos\CalcLogorifm\CalcLogorifm\bin\Debug\CalcLogorifm.exe
+C:\Users\HP\source\repos\CalcLogorifm\CalcLogorifm\bin\Debug\CalcLogorifm.pdb
+C:\Users\HP\source\repos\CalcLogorifm\CalcLogorifm\obj\Debug\CalcLogorifm.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CalcLogorifm\CalcLogorifm\obj\Debug\CalcLogorifm.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CalcLogorifm\CalcLogorifm\obj\Debug\CalcLogorifm.exe
+C:\Users\HP\source\repos\CalcLogorifm\CalcLogorifm\obj\Debug\CalcLogorifm.pdb
